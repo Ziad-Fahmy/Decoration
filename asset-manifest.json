@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ziad-Fahmy/Decoration/static/css/main.05cdbf47.css",
-    "main.js": "/Ziad-Fahmy/Decoration/static/js/main.dc7db9a5.js",
+    "main.js": "/Ziad-Fahmy/Decoration/static/js/main.c257a864.js",
     "static/js/453.69a85805.chunk.js": "/Ziad-Fahmy/Decoration/static/js/453.69a85805.chunk.js",
     "static/media/backGround__Hero.jpg": "/Ziad-Fahmy/Decoration/static/media/backGround__Hero.2a222dcea436f2a4fc37.jpg",
     "static/media/projectCard1.png": "/Ziad-Fahmy/Decoration/static/media/projectCard1.1d6c4fb24d65db4187d3.png",
@@ -14,11 +14,11 @@
     "static/media/ArticlesSection3.png": "/Ziad-Fahmy/Decoration/static/media/ArticlesSection3.eb163cf9a1a216bedb1b.png",
     "index.html": "/Ziad-Fahmy/Decoration/index.html",
     "main.05cdbf47.css.map": "/Ziad-Fahmy/Decoration/static/css/main.05cdbf47.css.map",
-    "main.dc7db9a5.js.map": "/Ziad-Fahmy/Decoration/static/js/main.dc7db9a5.js.map",
+    "main.c257a864.js.map": "/Ziad-Fahmy/Decoration/static/js/main.c257a864.js.map",
     "453.69a85805.chunk.js.map": "/Ziad-Fahmy/Decoration/static/js/453.69a85805.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05cdbf47.css",
-    "static/js/main.dc7db9a5.js"
+    "static/js/main.c257a864.js"
   ]
 }
