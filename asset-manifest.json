@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Ziad-Fahmy/Decoration/static/css/main.05cdbf47.css",
+    "main.js": "/Ziad-Fahmy/Decoration/static/js/main.dc7db9a5.js",
+    "static/js/453.69a85805.chunk.js": "/Ziad-Fahmy/Decoration/static/js/453.69a85805.chunk.js",
+    "static/media/backGround__Hero.jpg": "/Ziad-Fahmy/Decoration/static/media/backGround__Hero.2a222dcea436f2a4fc37.jpg",
+    "static/media/projectCard1.png": "/Ziad-Fahmy/Decoration/static/media/projectCard1.1d6c4fb24d65db4187d3.png",
+    "static/media/projectCard3.png": "/Ziad-Fahmy/Decoration/static/media/projectCard3.4ae44e352d9ce87e631e.png",
+    "static/media/projectCard4.png": "/Ziad-Fahmy/Decoration/static/media/projectCard4.960806b49d4487c3e838.png",
+    "static/media/projectCard2.png": "/Ziad-Fahmy/Decoration/static/media/projectCard2.e920aef620168310fb41.png",
+    "static/media/aboutUs.jpg": "/Ziad-Fahmy/Decoration/static/media/aboutUs.4b320dc5c93e8158ee50.jpg",
+    "static/media/ArticlesSection2.png": "/Ziad-Fahmy/Decoration/static/media/ArticlesSection2.37d74d241bbb418828f3.png",
+    "static/media/ArticlesSection1.png": "/Ziad-Fahmy/Decoration/static/media/ArticlesSection1.c198404a78d738a646a9.png",
+    "static/media/ArticlesSection3.png": "/Ziad-Fahmy/Decoration/static/media/ArticlesSection3.eb163cf9a1a216bedb1b.png",
+    "index.html": "/Ziad-Fahmy/Decoration/index.html",
+    "main.05cdbf47.css.map": "/Ziad-Fahmy/Decoration/static/css/main.05cdbf47.css.map",
+    "main.dc7db9a5.js.map": "/Ziad-Fahmy/Decoration/static/js/main.dc7db9a5.js.map",
+    "453.69a85805.chunk.js.map": "/Ziad-Fahmy/Decoration/static/js/453.69a85805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05cdbf47.css",
+    "static/js/main.dc7db9a5.js"
+  ]
+}
