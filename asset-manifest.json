@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/decoration/static/css/main.b3a876a3.css",
-    "main.js": "/decoration/static/js/main.5cc6da60.js",
-    "static/js/453.69a85805.chunk.js": "/decoration/static/js/453.69a85805.chunk.js",
-    "static/media/backGround__Hero.jpg": "/decoration/static/media/backGround__Hero.2a222dcea436f2a4fc37.jpg",
-    "static/media/projectCard1.png": "/decoration/static/media/projectCard1.1d6c4fb24d65db4187d3.png",
-    "static/media/projectCard3.png": "/decoration/static/media/projectCard3.4ae44e352d9ce87e631e.png",
-    "static/media/projectCard4.png": "/decoration/static/media/projectCard4.960806b49d4487c3e838.png",
-    "static/media/projectCard2.png": "/decoration/static/media/projectCard2.e920aef620168310fb41.png",
-    "static/media/aboutUs.jpg": "/decoration/static/media/aboutUs.4b320dc5c93e8158ee50.jpg",
-    "static/media/ArticlesSection2.png": "/decoration/static/media/ArticlesSection2.37d74d241bbb418828f3.png",
-    "static/media/ArticlesSection1.png": "/decoration/static/media/ArticlesSection1.c198404a78d738a646a9.png",
-    "static/media/ArticlesSection3.png": "/decoration/static/media/ArticlesSection3.eb163cf9a1a216bedb1b.png",
-    "index.html": "/decoration/index.html",
-    "main.b3a876a3.css.map": "/decoration/static/css/main.b3a876a3.css.map",
-    "main.5cc6da60.js.map": "/decoration/static/js/main.5cc6da60.js.map",
-    "453.69a85805.chunk.js.map": "/decoration/static/js/453.69a85805.chunk.js.map"
+    "main.css": "/static/css/main.53f0981f.css",
+    "main.js": "/static/js/main.71e8c328.js",
+    "static/js/453.69a85805.chunk.js": "/static/js/453.69a85805.chunk.js",
+    "static/media/backGround__Hero.jpg": "/static/media/backGround__Hero.2a222dcea436f2a4fc37.jpg",
+    "static/media/projectCard1.png": "/static/media/projectCard1.1d6c4fb24d65db4187d3.png",
+    "static/media/projectCard3.png": "/static/media/projectCard3.4ae44e352d9ce87e631e.png",
+    "static/media/projectCard4.png": "/static/media/projectCard4.960806b49d4487c3e838.png",
+    "static/media/projectCard2.png": "/static/media/projectCard2.e920aef620168310fb41.png",
+    "static/media/aboutUs.jpg": "/static/media/aboutUs.4b320dc5c93e8158ee50.jpg",
+    "static/media/ArticlesSection2.png": "/static/media/ArticlesSection2.37d74d241bbb418828f3.png",
+    "static/media/ArticlesSection1.png": "/static/media/ArticlesSection1.c198404a78d738a646a9.png",
+    "static/media/ArticlesSection3.png": "/static/media/ArticlesSection3.eb163cf9a1a216bedb1b.png",
+    "index.html": "/index.html",
+    "main.53f0981f.css.map": "/static/css/main.53f0981f.css.map",
+    "main.71e8c328.js.map": "/static/js/main.71e8c328.js.map",
+    "453.69a85805.chunk.js.map": "/static/js/453.69a85805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3a876a3.css",
-    "static/js/main.5cc6da60.js"
+    "static/css/main.53f0981f.css",
+    "static/js/main.71e8c328.js"
   ]
 }
