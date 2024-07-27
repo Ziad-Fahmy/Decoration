@@ -1,0 +1,48 @@
+.call-to-action {
+    background-color: #292F36; /* Match the background color from the image */
+    color: #fff; /* Text color */
+    text-align: center;
+    padding: 50px ; /* Adjust padding as needed */
+    border-radius: 10px; /* Add rounded corners */
+    width: 60%;
+    margin: auto;
+    border-radius: 60px;
+    margin-bottom: 5vh;
+  }
+  
+  .call-to-action-content {
+    max-width: 800px; /* Adjust max width for responsiveness */
+    margin: 0 auto;
+  }
+  
+  .call-to-action h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  
+  .call-to-action p {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .call-to-action-button {
+    background-color: #CDA274;
+    color: #333;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .call-to-action-button:hover {
+    background-color: #f5e7d6;
+  }
+  
+
+  @media (max-width:950px) {
+    .call-to-action {
+        width: 100%;
+        border-radius: 0;
+    }
+  }

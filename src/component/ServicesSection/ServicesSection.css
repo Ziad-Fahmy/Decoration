@@ -1,0 +1,97 @@
+/* Services Section Container */
+.services-section {
+  padding: 50px 20px;
+  background-color: #fff;
+}
+
+.services-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  flex-wrap: wrap;
+  padding: 4rem 15rem;
+}
+
+/* Service Card */
+.service-card {
+  border-right: 1px #888484 solid;
+  border-left: 1px#888484 solid;
+  flex: 1 1 30%;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.service-card h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.service-card p {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.service-card .read-more {
+  font-size: 1rem;
+  color: #ff7a59;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.service-card .read-more:hover {
+  color: #333;
+}
+
+
+
+@media (max-width: 325px) {
+  .services-container {
+    padding: 2vh 0.2rem;
+  }
+}
+
+@media (min-width: 325px) and (max-width: 500px) {
+  .services-container {
+    padding: 2vh 3.5rem;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 780px) {
+  .services-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 2vh 4rem;
+  }
+
+  .service-card {
+    flex: 1 1 80%;
+    padding: 20px;
+    margin: 10px;
+  }
+}
+
+@media (min-width: 780px) and (max-width: 1424px) {
+  .services-section {
+    width: 100%;
+  }
+  .services-container {
+    /* margin: 0 -10rem; */
+    padding: 2vh 10rem;
+  }
+  .service-card {
+    flex: 1 1 20%;
+  }
+
+  .service-card:not(:last-child)::after {
+    right: -10px; /* adjust this value as necessary */
+    bottom: auto;
+    width: 1px;
+    height: 100%;
+  }
+}

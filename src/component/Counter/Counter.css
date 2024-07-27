@@ -1,0 +1,28 @@
+.counter__container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f0ec;
+  padding: 10vh 0;
+}
+
+.counter-divider {
+  width: 1px;
+  height: 100px;
+  background-color: #cda274;
+}
+
+.counter-num {
+  text-align: center;
+}
+
+.counter-num h1 {
+  font-size: 4rem;
+  color: #cda274;
+}
+
+.counter-title p {
+  color: #4d5053;
+}

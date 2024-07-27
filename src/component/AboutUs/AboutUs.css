@@ -1,0 +1,80 @@
+.aboutUs__container {
+    display: flex;
+    justify-content: center;
+    padding: 2vh 0 10vh 15vh;
+  }
+  
+  .aboutUs__text {
+    width: 50vh;
+    padding: 10vh 5vh 0 0;
+  }
+  
+  .aboutUs__text h1 {
+    color: #333;
+    font-size: 2.5rem;
+    padding-bottom: 3vh;
+  }
+  
+  .aboutUs__text p {
+    color: #666;
+    padding-bottom: 3vh;
+  }
+  
+  .aboutUs__img img {
+    max-width: 80%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 15%;
+  }
+  
+  @media (max-width: 768px) { /* Adjust breakpoint as needed */
+    .service-card {
+        display: block;
+    }
+    .aboutUs__container {
+      flex-direction: column-reverse; /* Switch text and image order */
+      padding: 2vh 0;
+    }
+  
+    .aboutUs__text {
+      width: 100%;
+      padding: 2vh 5vh;
+      text-align: center; /* Center text on smaller screens */
+    }
+    .aboutUs__text h1 {
+        font-size: 2rem;
+      }
+    
+    .aboutUs__img img {
+      max-width: 100%;
+      border-radius: 5%;
+        padding: 1vh;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* Existing medium screen styles */
+    .aboutUs__container {
+      display: flex;
+      justify-content: center;
+      padding: 2vh 0 2vh 25vh;
+    }
+  
+    .aboutUs__text {
+      width: 50vh;
+      padding: 1vh 3vh 0 0;
+    }
+  
+    .aboutUs__img img {
+      max-width: 70%;
+    }
+  
+    .aboutUs__text h1 {
+      padding-bottom: 1vh;
+      font-size: 2rem;
+    }
+  
+    .aboutUs__text p {
+      padding-bottom: 1.5vh;
+    }
+  }
+  
